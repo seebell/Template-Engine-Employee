@@ -32,8 +32,8 @@ async function askQuestions() {
     return responses;
 };
 
-async function roleChosen(emp) {
-    const { name, id, email, role } = emp;
+async function roleChosen(e) {
+    const { name, id, email, role } = e;
     switch (role) {
 
         case "Manager":
