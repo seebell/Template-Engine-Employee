@@ -1,0 +1,17 @@
+body {
+    background-color: lightsteelblue;
+}
+.jumbotron {
+    background-color: lightblue;
+}
+
+.card-header {
+    background-color: lightgray;
+}
+
+.card-body {
+    background-color: lightblue;
+}
+ .list-group-item {
+     background-color: lightyellow;
+ }
